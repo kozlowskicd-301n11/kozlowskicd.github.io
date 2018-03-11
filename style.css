@@ -1,0 +1,70 @@
+head {
+    
+}
+#headingimg{
+    height: 400px; 
+    width: 100%; 
+
+}    
+#logo{ 
+    background-color: white;
+    height: 200px;
+    width: 200px;
+    Position: absolute;
+    Top: 80px;
+    left: 20px;
+    border: 20px solid white;
+    border-radius: 100px;  
+       
+}
+h1{
+    font-size: 150px;
+    color: tomato;
+    text-align: center;
+    top: 40px; 
+   
+}
+#welcomimg{
+    width: 75%; 
+    height: 400px;
+    align-content: center;
+       
+}
+header {
+    text-align: center;
+
+}
+body{
+    background-color: rgb(204, 159, 107);
+    margin: 0px; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+p{
+    font-size: 25px;
+}
+nav{
+    background-color: darkorange;
+
+}
+li{
+    display: inline;
+    margin: 30px; 
+    font-size: 40px;
+}
+ul{
+    text-align: center;     
+    padding: 20px;         
+}
+section{
+    background-color: beige;
+
+}
+
+aside{
+
+}
+
+footer {
+
+}

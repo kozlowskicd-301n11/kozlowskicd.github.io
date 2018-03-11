@@ -1,0 +1,45 @@
+
+body{background-color: rgb(204, 159, 107);
+    text-align: center;
+}
+
+h1{
+    color: green;
+    text-align: center;
+    font-size: 48px; 
+}
+img{
+    width: 50%;
+}
+h3{
+    color: green;
+    text-align: center;
+}
+#tagline{
+    color: rgb(0, 70, 0);
+    text-align: center;
+
+}
+
+.croc{
+    color: rgb(2, 71, 2); 
+    text-align: center;
+    border: 3px solid green;
+    padding: 2px;
+    margin-left: 25%;
+    margin-right: 24%;
+    background-color: rgb(190, 141, 94);
+
+}
+#logo{ 
+    background-color: white;
+    height: 80px;
+    width: 80px;
+    Top: 5px;
+    position: absolute;
+    left: 20px;
+    border: 20px solid white;
+    border-radius: 40px;  
+       
+}
+
